@@ -12,5 +12,5 @@ function fixBugA() {
 }
 
 function fixBugB() {
-    console.log('fixBugB');
+    console.log('main fixBugB');
 }
