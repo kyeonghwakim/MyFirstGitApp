@@ -4,3 +4,5 @@
 * git commit
 * git push
 * git commit -am
+* git push
+* git clone
