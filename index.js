@@ -14,3 +14,7 @@ function fixBugA() {
 function fixBugB() {
     console.log('main fixBugB');
 }
+
+function fixBugC() {
+    console.log('hot fix BugC');
+}
